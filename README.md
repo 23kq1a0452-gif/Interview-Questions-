@@ -1,2 +1,2 @@
 # Interview-Questions-
-Interview preparation questions and answers for SQL, Python, and C.
+Interview preparation questions and for SQL.
