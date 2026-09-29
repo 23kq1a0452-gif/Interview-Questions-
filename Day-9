@@ -1,5 +1,1 @@
-Can a table have more than one primary key? Why?
-Can a foreign key contain NULL values?
-What happens if you try to insert a duplicate value into a column with a UNIQUE constraint?
-What is the difference between NULL and 0 in SQL?
-Why do we use GROUP BY with aggregate functions?
+
